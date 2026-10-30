@@ -115,7 +115,7 @@ export default function HomeScreen() {
   const tagBackground = isInverted ? theme.background : theme.tagBackground;
   const tagTextColor = isInverted ? theme.mainPalette[0] : theme.tagText;
 
-  const REPO_URL = "https://github.com/europanite/client_side_logo_generator";
+  const REPO_URL = "https://github.com/europanite/client-side-logo-generator";
 
   return (
     <ScrollView

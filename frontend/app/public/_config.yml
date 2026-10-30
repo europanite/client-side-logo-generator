@@ -1,6 +1,6 @@
-title: "client_side_logo_generator"
+title: "client-side-logo-generator"
 description: "A Client Side Logo Generator."
-baseurl: "/client_side_logo_generator"
+baseurl: "/client-side-logo-generator"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
