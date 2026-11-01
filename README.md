@@ -1,10 +1,10 @@
-# [Client Side Logo Generator](https://github.com/europanite/client_side_logo_generator "Client Side Logo Generator")
+# [Client Side Logo Generator](https://github.com/europanite/client-side-logo-generator "Client Side Logo Generator")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
-[![CI](https://github.com/europanite/client_side_logo_generator/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/client_side_logo_generator/actions/workflows/ci.yml)
-[![docker](https://github.com/europanite/client_side_logo_generator/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/client_side_logo_generator/actions/workflows/docker.yml)
-[![GitHub Pages](https://github.com/europanite/client_side_logo_generator/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/client_side_logo_generator/actions/workflows/deploy-pages.yml)
+[![CI](https://github.com/europanite/client-side-logo-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/client-side-logo-generator/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/client-side-logo-generator/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/client-side-logo-generator/actions/workflows/docker.yml)
+[![GitHub Pages](https://github.com/europanite/client-side-logo-generator/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/client-side-logo-generator/actions/workflows/deploy-pages.yml)
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,7 +13,7 @@
 
 !["web_ui"](./assets/images/web_ui.png)
 
- [PlayGround](https://europanite.github.io/client_side_logo_generator/)
+ [PlayGround](https://europanite.github.io/client-side-logo-generator/)
 
 A Client Side Logo Generator.
 

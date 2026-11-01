@@ -23,7 +23,7 @@
       "edgeToEdgeEnabled": true
     },
     "experiments": {
-      "baseUrl": "/client_side_logo_generator"
+      "baseUrl": "/client-side-logo-generator"
     },
     "web": {
       "favicon": "./assets/favicon.png",
