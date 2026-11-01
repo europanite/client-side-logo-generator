@@ -37,7 +37,7 @@ jobs:
         run: npm test -- --ci --runInBand --coverage --verbose
       - name: Upload coverage
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: coverage-node${{ matrix.node }}
           path: frontend/app/coverage
@@ -50,11 +50,11 @@ jobs:
       CI: "1"
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Use Node 20
-        uses: actions/setup-node@v4
+        uses: actions/checkout@v5
+      - name: Use Node 24
+        uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
           cache-dependency-path: frontend/app/package-lock.json
       - name: Install deps
@@ -65,7 +65,7 @@ jobs:
         run: npx expo export -p web
       - name: Upload dist (preview artifact)
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: expo-web-dist
           path: frontend/app/dist
